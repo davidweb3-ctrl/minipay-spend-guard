@@ -14,6 +14,18 @@ Status:
 ACTIVE
 ```
 
+Public repo:
+
+```text
+https://github.com/davidweb3-ctrl/minipay-spend-guard
+```
+
+Current public commit:
+
+```text
+7c967b4
+```
+
 Purpose:
 
 Build a small Celo/MiniPay-compatible proof for Celo Proof of Ship that demonstrates non-custodial payment safety, spend limits, and receipt recording.
@@ -26,3 +38,9 @@ Any repo, deploy, test, submission, ranking, sponsor reply, or status change mus
 - `ops/projects/P-20260523-celo-minipay-guard.md`
 - `ops/status-sync-log.md`
 - today's opportunity list when relevant
+
+Last synced:
+
+```text
+2026-05-23 22:18 CST
+```
